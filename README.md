@@ -6,7 +6,7 @@
 
 - 👨‍💻 More about Myself [flow.page/allancosta](flow.page/allancosta)
 
-- 💬 Ask me about **almost anything, lets no limite the possibilities**
+- 💬 Ask me about **almost anything, lets not limite the possibilities**
 
 - 📫 How to reach me **allan.da.silva.costa@gmail.com**
 
