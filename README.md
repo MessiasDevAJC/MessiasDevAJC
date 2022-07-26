@@ -2,13 +2,18 @@
 <h1 align="center">Hi 👋, I'm Allan Costa, but most call me Messias</h1>
 <h3 align="center">I am a Full Stack Developer with a background in finance, management and graphic design. The journey has been long but a uplifting one. On this path i have learned that clear communication and synergy is essential and given my experiences i always try to bridge those gaps in all environments and situations.</h3>
 
+
 - 🌱 I’m currently learning **React.JS**
 
+
 - 👨‍💻 More about Myself [flow.page/allancosta](flow.page/allancosta)
+- 
 
 - 💬 Ask me about **almost anything, lets not limite the possibilities**
+- 
 
 - 📫 How to reach me **allan.da.silva.costa@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
